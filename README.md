@@ -1,8 +1,9 @@
 
+<p align="center">
+    <img src="Logo.png" alt="Logo do projeto">
+</p>
 <h1 align="center">Alura Courses Website</h1>
 
-
-![Logo da Plataforma](Logo.png)
 
 ## Índice
 * Descrição do Projeto
@@ -35,5 +36,5 @@ Git:
 </pre>
 
 ## Tecnologias Usadas
-* HTML - 5
-* CSS - 3
+* HTML
+* CSS
